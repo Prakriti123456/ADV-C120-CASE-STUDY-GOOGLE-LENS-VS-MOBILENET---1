@@ -79,3 +79,7 @@ h4 {
     color: white;
     font-weight: bold;
 }
+
+#image{
+   align-items: center;
+}
